@@ -1,0 +1,28 @@
+{
+  "articles": [
+    {
+      "id": "1",
+      "title": "sample title",
+      "description": "sample description",
+      "content": "sample content"
+    },
+    {
+      "id": "2",
+      "title": "second sample title",
+      "description": "second sample description",
+      "content": "second sample content"
+    },
+    {
+      "id": "3",
+      "title": "third sample title",
+      "description": "third sample description",
+      "content": "third sample content"
+    },
+    {
+      "id": "4",
+      "title": "fourth sample title",
+      "description": "fourth sample description",
+      "content": "fourth sample content"
+    }
+  ]
+}
